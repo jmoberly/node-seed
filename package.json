@@ -1,0 +1,17 @@
+{
+  "name": "myproject",
+  "version": "0.0.0",
+  "description": "This is a default project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jake test"
+  },
+  "author": "John Moberly",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "~1.19.0",
+    "jake": "~0.7.13",
+    "chai": "~1.9.1",
+    "execsync": "0.0.5"
+  }
+}
