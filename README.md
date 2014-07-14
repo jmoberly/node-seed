@@ -1,4 +1,4 @@
-MyProject
+My Project
 =========
 
 
